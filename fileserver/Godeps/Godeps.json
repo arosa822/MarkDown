@@ -1,0 +1,12 @@
+{
+	"ImportPath": "github.com/arosa822/fileserver",
+	"GoVersion": "go1.11",
+	"GodepVersion": "v80",
+	"Deps": [
+		{
+			"ImportPath": "github.com/russross/blackfriday",
+			"Comment": "v1.5.1-5-gf1f45ab",
+			"Rev": "f1f45ab762c27468d6384ce800fd56bea62bbfe1"
+		}
+	]
+}
